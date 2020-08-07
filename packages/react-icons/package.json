@@ -1,8 +1,8 @@
 {
-  "name": "react-icons",
-  "version": "3.10.1-snapshot.0",
+  "name": "@coreyward/react-icons",
+  "version": "3.10.3",
   "description": "SVG React icons of popular icon packs using ES6 imports",
-  "author": "Goran Gajic",
+  "author": "Corey Ward",
   "contributors": [
     "kamijin_fanta <kamijin@live.jp>"
   ],
@@ -12,15 +12,16 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:react-icons/react-icons.git"
+    "url": "git+ssh://git@github.com:coreyward/react-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/react-icons/react-icons/issues"
+    "url": "https://github.com/coreyward/react-icons/issues"
   },
-  "homepage": "https://github.com/react-icons/react-icons#readme",
+  "homepage": "https://github.com/coreyward/react-icons#readme",
   "peerDependencies": {
     "react": "*"
   },
+  "private": false,
   "devDependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
